@@ -19,3 +19,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+title: "hello world"
+date: 2023-09-18T07:44:00+07:00
+authors: ['Raro Kurnova']
+tags: ['xx1000']
+draft: false
+math: true
+url: "0048"
+---
+{{< toc >}}
+
+## first section
+Content of first section.
