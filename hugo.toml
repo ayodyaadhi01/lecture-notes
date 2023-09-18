@@ -116,13 +116,13 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 0
-url = "https://github.com/dudung/"
+url = "https://github.com/ayodyaadhi01/"
 
 [[params.social]]
 name = "Flickr"
 icon = "fa fa-2x fa-inkscape"
 weight = 1
-url = "https://inkscape.org/~dudung/"
+url = "https://inkscape.org/~ayodyaadhi01/"
 
 [[params.social]]
 name = "Gitlab"
