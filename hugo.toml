@@ -17,7 +17,7 @@ author = "Ayodya Adhi"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Ayodya Adhi Private Website"
 keywords = "blog,developer,personal"
-info = ["Prigrammer", "Adventurer"]
+info = ["Programmer", "Adventurer"]
 
 avatarURL = "img/avatar.svg"
 
