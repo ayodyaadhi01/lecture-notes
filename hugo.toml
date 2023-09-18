@@ -1,4 +1,4 @@
-baseURL = 'https://dudung.github.io/lecture-notes'
+baseURL = 'https://ayodyaadhi01.github.io/lecture-notes'
 languageCode = 'en-us'
 title = 'lecture-notes'
 theme = ['hugo-chart', 'hugo-coder']
@@ -13,17 +13,17 @@ enableEmoji = true
 #disqusShortname = "dudung-github-io-blog"
 
 [params]
-author = "Sparisoma Viridi"
+author = "Ayodya Adhi"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Sparisoma Viridi's personal website"
+description = "Ayodya Adhi Private Website"
 keywords = "blog,developer,personal"
-info = ["Physicist", "Programmer"]
+info = ["Programmer", "Adventurer"]
 
 avatarURL = "img/avatar.svg"
 
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
-since = 2022
+since = 2023
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languagues such as Arabic
@@ -116,13 +116,13 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 0
-url = "https://github.com/dudung/"
+url = "https://github.com/ayodyaadhi01/"
 
 [[params.social]]
 name = "Flickr"
 icon = "fa fa-2x fa-inkscape"
 weight = 1
-url = "https://inkscape.org/~dudung/"
+url = "https://inkscape.org/~ayodyaadhi01/"
 
 [[params.social]]
 name = "Gitlab"
