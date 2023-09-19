@@ -11,7 +11,36 @@ url: "pedulianak"
 
 ## Purpose and Objectives LSM
 Peduli anak adalah inti dari misi kami di LSM ini. Kami memahami bahwa anak-anak adalah aset berharga masa depan. Melalui program-program pendidikan, kesejahteraan, dan perlindungan, kami berkomitmen untuk memberikan mereka peluang yang layak dan lingkungan yang aman untuk tumbuh dan berkembang. 
+
 Kami tidak hanya menawarkan bantuan finansial, tetapi juga mendengarkan, memahami, dan mendukung kebutuhan anak-anak. Bersama dengan masyarakat, kami berusaha memerangi masalah seperti pengabaian dan pelecehan anak. Setiap tindakan kecil yang kita lakukan memiliki dampak besar pada masa depan mereka. Dengan bersatu, kita bisa menciptakan dunia yang lebih baik untuk generasi mendatang.
+
+## Sekilas Kami
+
++ {{< youtube 3RgN-hVPSkk >}}
+
++ {{< youtube W8PV4GcaZC0 >}}
+
+
+
+## Wajah Kami
+![](https://jateng.kemenag.go.id/wp-content/uploads/2021/08/dwp-berbagi-di-PA-Muhamadiyah-pesantunan--1024x960.jpeg)
+
+
+## Jadwal Kegiatan Harian
+No | Jam | Kegiatan | Tempat
+:-: | :- | -: | :-:
+1 | 05.00 | Sholat Shubuh | Masjid
+2 | 06.00 | Makan Pagi | Ruang Makan
+3 | 07.00 | Senam Gembira | Lapangan
+4 | 12.00 | Sholat Dzuhur | Masjid
+5 | 13.00 | Makan Siang | Ruang Makan
+6 | 15.30 | Sholat Ashar | Masjid
+7 | 16.00 | Jalan-jalan Sore | Taman
+8 | 18.00 | Sholat Maghrib | Masjid
+9 | 19.00 | Sholat Isya | Masjid
+10 | 19.30 | Makan Malam | Ruang Makan
+11 | 21.00 | Istirahat Malam | Ruang Tidur
+
 
 ## Minat Baca dikalangan Anak Berdasarkan Usia
 {{< chart 90 200 >}}
@@ -77,35 +106,13 @@ flowchart LR
 {{< /mermaid >}}
 
 
-## Sekilas Kami
-
-+ {{< youtube 3RgN-hVPSkk >}}
-
-+ {{< youtube W8PV4GcaZC0 >}}
-
-
-
-## Wajah Kami
-![]
-(https://www.uii.ac.id/wp-content/uploads/2022/01/Mahasiswa-FK-UII-Semangati-Belajar-Anak-Panti-Asuhan.jpg)
-
-## table
-No | Tanggal | Kegiatan | Info
-:-: | :- | -: | :-:
-1 | 22 Jun | Latihan | -
-2 | 15 Jul | UTS | $\frac{x}{y}$
-3 | 16 Aug | Praktikum | [Instagram](https://www.instagram.com/)
-4 | 31 Aug | UAS | -
-5 | 2 Sep  | Remedial | **nothing**
-
-
 ## Perhitungan Rasio Angka Harapan Hidup Anak
 $$
 \mathbf{M} = 
 \left[
 \begin{matrix}
-1 & 2 & 3 & 4 & 5 \newline
-1 & 2 & 3 & 4 & 5 \newline
+1 & 2 & 1 & 2 & 1 \newline
+2 & 1 & 2 & 1 & 2 \newline
 1 & 2 & y^2 & z & x \newline
 \end{matrix}
 \right]
@@ -122,9 +129,23 @@ y = ax^2 + bx + c
 $$
 
 
-## quote
+## Struktur Organisasi Inti
++ **PENGURUS**
+  - Ketua : DR.H. Ayodya Adhi
+  - Pembina : Teguh Andiva, M.H.
+  - Koordinator : Carnadi Lesmana, M.T.
+  - Pengawas : Chandra Martadinata, M.sos.
+  - Sekretaris : Nerdy Vandheka, M.T.I.
+  - Bendahara : Resna Febrianto, M.E.
+  
+  ## Prinsip kami
 
-> _Ini adalah kutipan Ini adalah kutipan Ini adalah kutipanIni adalah kutipan Ini adalah kutipanIni adalah kutipan_
+> _"Rangkullah dengan kasih sayang yang lembut seluruh umat manusia, terutama yang paling miskin, yang paling lemah, yang paling tidak penting." - Paus Francis_
+
+## Hubungi Kami
++ [Google](https://www.google.com)
++ [GitHub](https://github.com/ayodyaadhi01)
++ [instagram](https://www.instagram.com/pantiasuhankarenadoa)
 
 ## Animation with SVG
 {{< html >}}
@@ -160,19 +181,3 @@ $$
   </circle>
 </svg>
 {{< /html >}}
-
-## Hubungi Kami
-+ [Google](https://www.google.com)
-+ [GitHub](https://github.com/ayodyaadhi01)
-+ [instagram](https://www.instagram.com/af.ainnn)
-
-
-
-## Struktur Organisasi Inti
-+ **PENGURUS**
-  - Ketua : Ayodya Adhi, M.trK.
-  - Pembina : Teguh Andiva, M.H.
-  - Koordinator : Carnadi Lesmana, M.T.
-  - Pengawas : Chandra Martadinata, M.sos.
-  - Sekretaris : Nerdy Vandheka, M.T.I.
-  - Bendahara : Resna Febrianto, M.E.
