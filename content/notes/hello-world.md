@@ -9,7 +9,7 @@ url: "pedulianak"
 ---
 {{< toc >}}
 
-## purpose and objectives LSM
+## Purpose and Objectives LSM
 Peduli anak adalah inti dari misi kami di LSM ini. Kami memahami bahwa anak-anak adalah aset berharga masa depan. Melalui program-program pendidikan, kesejahteraan, dan perlindungan, kami berkomitmen untuk memberikan mereka peluang yang layak dan lingkungan yang aman untuk tumbuh dan berkembang. 
 Kami tidak hanya menawarkan bantuan finansial, tetapi juga mendengarkan, memahami, dan mendukung kebutuhan anak-anak. Bersama dengan masyarakat, kami berusaha memerangi masalah seperti pengabaian dan pelecehan anak. Setiap tindakan kecil yang kita lakukan memiliki dampak besar pada masa depan mereka. Dengan bersatu, kita bisa menciptakan dunia yang lebih baik untuk generasi mendatang.
 
@@ -54,40 +54,42 @@ Kami tidak hanya menawarkan bantuan finansial, tetapi juga mendengarkan, memaham
 }
 {{< /chart >}}
 
-# diagram
+## Proses Adopsi Anak
 {{< mermaid >}}
 flowchart LR
   B --> I & P --> O & E
-  B(("<b>Begin</b>"))
-  I[/"Input"/]
-  P["Process"]
-  O[/"Output"/]
-  E(("End"))
+  B(("<b>Panti</b>"))
+  I[/"Administrasi"/]
+  P["Pengenalan"]
+  O[/"Pembiasaan"/]
+  E(("Ortu Pengadopsi"))
 {{< /mermaid >}}
 
 
 {{< mermaid >}}
 flowchart LR
   B --> I --> P --> O --> E
-  B(("Begin"))
-  I[/"Input"/]
-  P["Process"]
-  O[/"Output"/]
-  E(("End"))
+  B(("Panti"))
+  I[/"Pengenalan"/]
+  P["Pembiasaan"]
+  O[/"Administrasi"/]
+  E(("Ortu Pengadopsi"))
 {{< /mermaid >}}
 
 
-# youtube
-{{< youtube S5vGxVTIf8s >}}
-{{< youtube 3RgN-hVPSkk >}}
+## Sekilas Kami
+
++ {{< youtube 3RgN-hVPSkk >}}
+
++ {{< youtube W8PV4GcaZC0 >}}
 
 
 
-# image
+## Wajah Kami
 ![]
 (https://www.uii.ac.id/wp-content/uploads/2022/01/Mahasiswa-FK-UII-Semangati-Belajar-Anak-Panti-Asuhan.jpg)
 
-# table
+## table
 No | Tanggal | Kegiatan | Info
 :-: | :- | -: | :-:
 1 | 22 Jun | Latihan | -
@@ -97,24 +99,7 @@ No | Tanggal | Kegiatan | Info
 5 | 2 Sep  | Remedial | **nothing**
 
 
-
-
-# link
-+ [Google](https://www.google.com)
-+ [GitHub](https://github.com/ayodyaadhi01)
-+ [instagram](https://www.instagram.com/af.ainnn)
-
-
-
-# list
-+ Item
-  - dua
-  - tiga
-+ item lain
-+ item lain lagi
-
-
-# Perhitungan Rasio Angka Harapan Hidup Anak
+## Perhitungan Rasio Angka Harapan Hidup Anak
 $$
 \mathbf{M} = 
 \left[
@@ -137,15 +122,11 @@ y = ax^2 + bx + c
 $$
 
 
-# quote
+## quote
 
 > _Ini adalah kutipan Ini adalah kutipan Ini adalah kutipanIni adalah kutipan Ini adalah kutipanIni adalah kutipan_
 
-# bold & italics
-
-**bold** _italics_
-
-# Animation with SVG
+## Animation with SVG
 {{< html >}}
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
   <!-- Rectangle with animation -->
@@ -157,7 +138,7 @@ $$
 </svg>
 {{< /html >}}
 
-# Complex SVG with Styled Rect
+## Complex SVG with Styled Rect
 {{< html >}}
 <svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
   <!-- Rectangle with gradients -->
@@ -180,13 +161,18 @@ $$
 </svg>
 {{< /html >}}
 
-## mermaid
-{{< mermaid >}}
-flowchart LR
-    B --> I --> P --> O --> E
-    B(("Variabilitas Tahun ke Tahun"))
-    I(("Peningkatan Pemahaman"))
-    P(("Perubahan Metode Ajar"))
-    O(("Perubahan Faktor Sosbud"))
-    E(("Program Pendidikan Tambahan"))
-{{< /mermaid >}}
+## Hubungi Kami
++ [Google](https://www.google.com)
++ [GitHub](https://github.com/ayodyaadhi01)
++ [instagram](https://www.instagram.com/af.ainnn)
+
+
+
+## Struktur Organisasi Inti
++ **PENGURUS**
+  - Ketua : Ayodya Adhi, M.trK.
+  - Pembina : Teguh Andiva, M.H.
+  - Koordinator : Carnadi Lesmana, M.T.
+  - Pengawas : Chandra Martadinata, M.sos.
+  - Sekretaris : Nerdy Vandheka, M.T.I.
+  - Bendahara : Resna Febrianto, M.E.
