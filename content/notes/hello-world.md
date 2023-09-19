@@ -78,13 +78,14 @@ flowchart LR
 
 
 # youtube
-{{< youtube CEv8dgvKvc0 >}}
+{{< youtube S5vGxVTIf8s >}}
+{{< youtube 3RgN-hVPSkk >}}
+
 
 
 # image
 ![]
-(https://www.istockphoto.com/id/foto/anak-dalam-kemiskinan-gm147693608-8198095)
-
+(https://www.uii.ac.id/wp-content/uploads/2022/01/Mahasiswa-FK-UII-Semangati-Belajar-Anak-Panti-Asuhan.jpg)
 
 # table
 No | Tanggal | Kegiatan | Info
@@ -99,8 +100,10 @@ No | Tanggal | Kegiatan | Info
 
 
 # link
-+ [Google](https://www.google.com/)
-+ [GitHub](https://github.com)
++ [Google](https://www.google.com)
++ [GitHub](https://github.com/ayodyaadhi01)
++ [instagram](https://www.instagram.com/af.ainnn)
+
 
 
 # list
@@ -111,7 +114,7 @@ No | Tanggal | Kegiatan | Info
 + item lain lagi
 
 
-# equation
+# Perhitungan Rasio Angka Harapan Hidup Anak
 $$
 \mathbf{M} = 
 \left[
@@ -136,7 +139,7 @@ $$
 
 # quote
 
-> Ini adalah kutipan Ini adalah kutipan Ini adalah kutipanIni adalah kutipan Ini adalah kutipanIni adalah kutipan
+> _Ini adalah kutipan Ini adalah kutipan Ini adalah kutipanIni adalah kutipan Ini adalah kutipanIni adalah kutipan_
 
 # bold & italics
 
@@ -146,10 +149,10 @@ $$
 {{< html >}}
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
   <!-- Rectangle with animation -->
-  <rect x="10" y="10" width="50" height="50" fill="blue">
+  <rect x="10" y="10" width="50" height="50" fill="orange">
     <animate attributeName="width" from="50" to="150" dur="2s" begin="0s" repeatCount="indefinite" />
     <animate attributeName="height" from="50" to="150" dur="2s" begin="0s" repeatCount="indefinite" />
-    <animate attributeName="fill" values="blue;red;green;blue" dur="4s" begin="0s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="red;orange;yellow;green" dur="4s" begin="0s" repeatCount="indefinite" />
   </rect>
 </svg>
 {{< /html >}}
@@ -165,7 +168,7 @@ $$
     </linearGradient>
   </defs>
 
-  <rect x="20" y="20" width="200" height="100" fill="url(#grad1)" stroke="green" stroke-width="3" />
+  <rect x="20" y="20" width="200" height="100" fill="url(#grad1)" stroke="red" stroke-width="3" />
 
   <!-- Text element -->
   <text x="30" y="160" font-family="Arial" font-size="24" fill="black">Complex SVG</text>
@@ -177,48 +180,6 @@ $$
 </svg>
 {{< /html >}}
 
-
-## chart
-{{< chart 90 200 >}}
-{
-    type: 'bar',
-    data: {
-        labels: ['2017', '2018', '2019', '2020', '2021', '2022'],
-        datasets: [{
-            label: 'Bar Chart',
-            data: [12, 19, 18, 14, 20, 11],
-            backgroundColor: [
-                'rgba(255,99,132,0.2)',
-                'rgba(54,162,235,0.2)',
-                'rgba(255,206,86,0.2)',
-                'rgba(75,192,192,0.2)',
-                'rgba(153,102,255,0.2)',
-                'rgba(255,159,64,0.2)'
-            ],
-            borderColor: [
-                'rgba(255,99,132,1)',
-                'rgba(54,162,235,1)',
-                'rgba(255,206,86,1)',
-                'rgba(75,192,192,1)',
-                'rgba(153,102,255,1)',
-                'rgba(255,159,64,1)'
-            ],
-            borderWidth: 1
-        }]
-    },
-    options: {
-        maintainAspectRatio: false,
-        scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero: true
-                }
-            }]
-        }
-    }
-}
-{{< /chart >}}
-
 ## mermaid
 {{< mermaid >}}
 flowchart LR
@@ -229,44 +190,3 @@ flowchart LR
     O(("Perubahan Faktor Sosbud"))
     E(("Program Pendidikan Tambahan"))
 {{< /mermaid >}}
-
-## chart
-{{< chart 90 200 >}}
-{
-    type: 'bar',
-    data: {
-        labels: ['2018', '2019', '2020', '2021', '2022', '2023'],
-        datasets: [{
-            label: 'Bar Chart',
-            data: [150, 150, 250, 300, 300, 300],
-            backgroundColor: [
-                'rgba(255, 99, 132, 0.2)',
-                'rgba(54, 162, 235, 0.2)',
-                'rgba(255, 206, 86, 0.2)',
-                'rgba(75, 192, 192, 0.2)',
-                'rgba(153, 102, 255, 0.2)',
-                'rgba(255, 159, 64, 0.2)'
-            ],
-            borderColor: [
-                'rgba(255, 99, 132, 1)',
-                'rgba(54, 162, 235, 1)',
-                'rgba(255, 206, 86, 1)',
-                'rgba(75, 192, 192, 1)',
-                'rgba(153, 102, 255, 1)',
-                'rgba(255, 159, 64, 1)'
-            ],
-            borderWidth: 1
-        }]
-    },
-    options: {
-        maintainAspectRatio: false,
-        scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero: true
-                }
-            }]
-        }
-    }
-}
-{{< /chart >}}
